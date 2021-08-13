@@ -10,7 +10,7 @@ The BVH file contains two parts:
 2) Frame by frame motion sequence of each skeleton joints
 
 
-# Part2 ARMA Based Segmentation of Human Limb Motion Sequences
+# Part2 Human motion sequence segmentation based on ARMA
 The content of folder 'Human motion sequence segmentation based on ARMA' is the whole algorithm project of article 'ARMA Based Segmentation of Human Limb Motion Sequences '.
 
 The whole is divided into two parts:
